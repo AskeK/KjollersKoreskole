@@ -1,2 +1,2 @@
 # Kjollers Koreskole
-Hello World!
+The rewrite of the 'Kjollers Koreskole'.
